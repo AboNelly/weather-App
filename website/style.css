@@ -1,0 +1,64 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.header {
+  display: flex;
+  background-color: #005986;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+}
+
+.headline {
+  font-size: 3em;
+}
+.fa-brands {
+  padding: 0 10px;
+}
+
+.zip {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+#zip {
+  background-color: rgb(222, 222, 235);
+  border-radius: 20px;
+  padding: 5px 6px;
+  text-align: center;
+}
+
+.zipCode {
+  margin-right: 10px;
+}
+
+.feel {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  background-color: whitesmoke;
+}
+
+.feelings {
+  margin-right: 10px;
+}
+
+#feelings {
+  background-color: rgb(222, 222, 235);
+  margin-right: 10px;
+}
+
+.entry {
+  background-color: white;
+  display: block;
+}
+
+#entryHolder {
+  margin-left: 10px;
+  background-color: whitesmoke;
+}
+
+.margin {
+  margin-bottom: 10px;
+}
